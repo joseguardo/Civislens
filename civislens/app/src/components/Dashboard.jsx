@@ -8,6 +8,7 @@ import TypeBarChart from './charts/TypeBarChart';
 import TimelineChart from './charts/TimelineChart';
 import ReturnDistribution from './charts/ReturnDistribution';
 import DelayAnalysisChart from './charts/DelayAnalysisChart';
+import UrbanitaeProvinceMap from './charts/UrbanitaeProvinceMap';
 import YearlySummaryTable from './YearlySummaryTable';
 import { analyzeProjectDelay } from '../utils/delayAnalysis';
 
@@ -100,6 +101,11 @@ export default function Dashboard({ projects }) {
         <div className="mb-6">
           <h2 className="text-xl font-semibold text-gray-900 mb-4">Resumen Anual</h2>
           <YearlySummaryTable projects={filteredProjects} />
+        </div>
+
+        {/* Province Map */}
+        <div className="mb-6">
+          <UrbanitaeProvinceMap projects={filteredProjects} />
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">

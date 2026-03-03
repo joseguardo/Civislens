@@ -8,6 +8,7 @@ import WecityTypeBar from './charts/WecityTypeBar';
 import WecityRatingChart from './charts/WecityRatingChart';
 import WecityReturnDistribution from './charts/WecityReturnDistribution';
 import WecityCityChart from './charts/WecityCityChart';
+import WecityProvinceMap from './charts/WecityProvinceMap';
 
 export default function WecityDashboard({ projects }) {
   const [filters, setFilters] = useState({
@@ -46,6 +47,11 @@ export default function WecityDashboard({ projects }) {
       <div className="mb-6">
         <h2 className="text-xl font-semibold text-gray-900 mb-4">Resumen Anual</h2>
         <WecityYearlySummaryTable projects={filteredProjects} />
+      </div>
+
+      {/* Province Map */}
+      <div className="mb-6">
+        <WecityProvinceMap projects={filteredProjects} />
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
