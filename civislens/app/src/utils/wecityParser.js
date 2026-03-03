@@ -34,5 +34,6 @@ export function parseWecityProjects(rawData) {
     _rentabilidad_anual: parsePercent(p.rentabilidad_anual),
     _rentabilidad_total: parsePercent(p.rentabilidad_total),
     _plazo: parseTerm(p.plazo_estimado),
+    _year: p.published_date ? parseInt(p.published_date.split('/')[2], 10) : null,
   }));
 }

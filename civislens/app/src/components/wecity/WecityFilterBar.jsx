@@ -5,7 +5,7 @@ export default function WecityFilterBar({ filters, setFilters, projects }) {
   const tipos = [...new Set(projects.map(p => p.tipo_inmueble).filter(Boolean))];
   const ratings = [...new Set(projects.map(p => p.rating).filter(Boolean))].sort().reverse();
   const paises = [...new Set(projects.map(p => p.pais).filter(Boolean))];
-  const years = [...new Set(projects.map(p => p.year).filter(Boolean))].sort((a, b) => b - a);
+  const years = [...new Set(projects.map(p => p._year).filter(Boolean))].sort((a, b) => b - a);
 
   return (
     <div className="bg-white rounded-lg shadow p-4 mb-6">

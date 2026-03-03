@@ -32,7 +32,7 @@ export default function WecityDashboard({ projects }) {
       if (filters.tipo && p.tipo_inmueble !== filters.tipo) return false;
       if (filters.rating && p.rating !== filters.rating) return false;
       if (filters.pais && p.pais !== filters.pais) return false;
-      if (filters.year && p.year !== Number(filters.year)) return false;
+      if (filters.year && p._year !== Number(filters.year)) return false;
       return true;
     });
   }, [projects, filters]);

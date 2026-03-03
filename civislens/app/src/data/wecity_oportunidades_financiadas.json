@@ -19,7 +19,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "17,25%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "19/02/2026",
+      "last_modified": "23/02/2026"
     },
     {
       "estado": "En curso",
@@ -37,7 +38,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "16/02/2026",
+      "last_modified": "18/02/2026"
     },
     {
       "estado": "En curso",
@@ -55,7 +57,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "7,50%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "03/02/2026",
+      "last_modified": "16/02/2026"
     },
     {
       "estado": "En curso",
@@ -73,7 +76,8 @@
       "rentabilidad_anual": "11,25%",
       "rentabilidad_total": "10,31%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "13/02/2026",
+      "last_modified": "16/02/2026"
     },
     {
       "estado": "En curso",
@@ -91,7 +95,8 @@
       "rentabilidad_anual": "11,75%",
       "rentabilidad_total": "17,63%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "02/02/2026",
+      "last_modified": "16/02/2026"
     },
     {
       "estado": "En curso",
@@ -109,7 +114,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "17,25%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "02/02/2026",
+      "last_modified": "06/02/2026"
     },
     {
       "estado": "En curso",
@@ -127,7 +133,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "29/01/2026",
+      "last_modified": "03/02/2026"
     },
     {
       "estado": "En curso",
@@ -145,7 +152,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "18,00%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "22/01/2026",
+      "last_modified": "27/01/2026"
     },
     {
       "estado": "En curso",
@@ -163,7 +171,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "10,54%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "14/01/2026",
+      "last_modified": "15/01/2026"
     },
     {
       "estado": "En curso",
@@ -181,7 +190,8 @@
       "rentabilidad_anual": "11,25%",
       "rentabilidad_total": "11,25%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "29/12/2025",
+      "last_modified": "05/01/2026"
     },
     {
       "estado": "En curso",
@@ -199,7 +209,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "8,75%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "22/12/2025",
+      "last_modified": "23/12/2025"
     },
     {
       "estado": "En curso",
@@ -217,7 +228,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "11,50%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "16/12/2025",
+      "last_modified": "24/12/2025"
     },
     {
       "estado": "En curso",
@@ -235,7 +247,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "2,00%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "22/12/2025",
+      "last_modified": "22/12/2025"
     },
     {
       "estado": "En curso",
@@ -253,7 +266,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "6,42%",
       "num_inversiones": null,
-      "year": 2026
+      "published_date": "17/12/2025",
+      "last_modified": "18/12/2025"
     },
     {
       "estado": "En curso",
@@ -271,7 +285,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "7,88%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "17/12/2025",
+      "last_modified": "18/12/2025"
     },
     {
       "estado": "En curso",
@@ -289,7 +304,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "7,88%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "01/12/2025",
+      "last_modified": "05/12/2025"
     },
     {
       "estado": "En curso",
@@ -307,7 +323,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "26/11/2025",
+      "last_modified": "01/12/2025"
     },
     {
       "estado": "En curso",
@@ -325,7 +342,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "25/11/2025",
+      "last_modified": "02/12/2025"
     },
     {
       "estado": "En curso",
@@ -343,7 +361,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "7,88%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "21/11/2025",
+      "last_modified": "24/11/2025"
     },
     {
       "estado": "En curso",
@@ -361,7 +380,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "11,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "19/11/2025",
+      "last_modified": "21/11/2025"
     },
     {
       "estado": "En curso",
@@ -379,7 +399,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "10,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "18/11/2025",
+      "last_modified": "20/11/2025"
     },
     {
       "estado": "En curso",
@@ -397,7 +418,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "7,88%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "13/11/2025",
+      "last_modified": "17/11/2025"
     },
     {
       "estado": "En curso",
@@ -415,7 +437,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "7,88%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "13/11/2025",
+      "last_modified": "24/11/2025"
     },
     {
       "estado": "En curso",
@@ -433,7 +456,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "17,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "05/11/2025",
+      "last_modified": "13/11/2025"
     },
     {
       "estado": "En curso",
@@ -451,7 +475,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "8,63%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "24/10/2025",
+      "last_modified": "28/10/2025"
     },
     {
       "estado": "En curso",
@@ -469,7 +494,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "5,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "22/10/2025",
+      "last_modified": "23/10/2025"
     },
     {
       "estado": "En curso",
@@ -487,7 +513,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "7,88%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "20/10/2025",
+      "last_modified": "20/10/2025"
     },
     {
       "estado": "En curso",
@@ -505,7 +532,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "10,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "10/10/2025",
+      "last_modified": "02/02/2026"
     },
     {
       "estado": "En curso",
@@ -523,7 +551,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "8,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "30/09/2025",
+      "last_modified": "09/10/2025"
     },
     {
       "estado": "En curso",
@@ -541,7 +570,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "7,88%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "08/10/2025",
+      "last_modified": "09/10/2025"
     },
     {
       "estado": "En curso",
@@ -559,7 +589,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "02/10/2025",
+      "last_modified": "06/10/2025"
     },
     {
       "estado": "En curso",
@@ -577,7 +608,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "7,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "20/11/2024",
+      "last_modified": "25/09/2025"
     },
     {
       "estado": "En curso",
@@ -595,7 +627,8 @@
       "rentabilidad_anual": "11,25%",
       "rentabilidad_total": "11,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "15/09/2025",
+      "last_modified": "19/09/2025"
     },
     {
       "estado": "En curso",
@@ -613,7 +646,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "11/06/2025",
+      "last_modified": "10/09/2025"
     },
     {
       "estado": "En curso",
@@ -631,7 +665,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "02/09/2025",
+      "last_modified": "03/09/2025"
     },
     {
       "estado": "En curso",
@@ -649,7 +684,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "16,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "26/08/2025",
+      "last_modified": "29/08/2025"
     },
     {
       "estado": "En curso",
@@ -667,7 +703,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "4,58%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "30/07/2025",
+      "last_modified": "21/08/2025"
     },
     {
       "estado": "En curso",
@@ -685,7 +722,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "6,13%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "20/08/2025",
+      "last_modified": "25/08/2025"
     },
     {
       "estado": "En curso",
@@ -703,7 +741,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "01/08/2025",
+      "last_modified": "12/08/2025"
     },
     {
       "estado": "En curso",
@@ -721,7 +760,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "08/07/2025",
+      "last_modified": "28/07/2025"
     },
     {
       "estado": "En curso",
@@ -739,7 +779,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "14,38%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "17/07/2025",
+      "last_modified": "22/07/2025"
     },
     {
       "estado": "En curso",
@@ -757,7 +798,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "7,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "18/07/2025",
+      "last_modified": "21/07/2025"
     },
     {
       "estado": "En curso",
@@ -775,7 +817,8 @@
       "rentabilidad_anual": "11,25%",
       "rentabilidad_total": "11,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "04/07/2025",
+      "last_modified": "04/07/2025"
     },
     {
       "estado": "En curso",
@@ -793,7 +836,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "11,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "27/06/2025",
+      "last_modified": "01/07/2025"
     },
     {
       "estado": "En curso",
@@ -811,7 +855,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "16,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "23/12/2024",
+      "last_modified": "11/06/2025"
     },
     {
       "estado": "En curso",
@@ -829,7 +874,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "17,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "17/06/2025",
+      "last_modified": "24/06/2025"
     },
     {
       "estado": "En curso",
@@ -847,7 +893,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "17,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "27/05/2025",
+      "last_modified": "16/06/2025"
     },
     {
       "estado": "En curso",
@@ -865,7 +912,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "13,75%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "09/06/2025",
+      "last_modified": "11/06/2025"
     },
     {
       "estado": "En curso",
@@ -883,7 +931,8 @@
       "rentabilidad_anual": "11,25%",
       "rentabilidad_total": "14,06%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "28/05/2025",
+      "last_modified": "04/06/2025"
     },
     {
       "estado": "En curso",
@@ -901,7 +950,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "17,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "20/05/2025",
+      "last_modified": "27/05/2025"
     },
     {
       "estado": "En curso",
@@ -919,7 +969,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "11,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "20/05/2025",
+      "last_modified": "22/05/2025"
     },
     {
       "estado": "En curso",
@@ -937,7 +988,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "09/04/2025",
+      "last_modified": "20/05/2025"
     },
     {
       "estado": "En curso",
@@ -955,7 +1007,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "7,33%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "12/05/2025",
+      "last_modified": "13/05/2025"
     },
     {
       "estado": "En curso",
@@ -973,7 +1026,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "11,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "09/05/2025",
+      "last_modified": "13/05/2025"
     },
     {
       "estado": "En curso",
@@ -991,7 +1045,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "17,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "25/04/2025",
+      "last_modified": "29/04/2025"
     },
     {
       "estado": "En curso",
@@ -1009,7 +1064,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "10/04/2025",
+      "last_modified": "29/04/2025"
     },
     {
       "estado": "En curso",
@@ -1027,7 +1083,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "8,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "23/04/2025",
+      "last_modified": "24/04/2025"
     },
     {
       "estado": "En curso",
@@ -1045,7 +1102,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "8,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "21/04/2025",
+      "last_modified": "23/04/2025"
     },
     {
       "estado": "En curso",
@@ -1063,7 +1121,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "10,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "01/04/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1081,7 +1140,8 @@
       "rentabilidad_anual": "11,25%",
       "rentabilidad_total": "11,25%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "24/03/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1099,7 +1159,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "8,63%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "18/03/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1117,7 +1178,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "11/03/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1135,7 +1197,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "11/03/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1153,7 +1216,8 @@
       "rentabilidad_anual": "11,25%",
       "rentabilidad_total": "14,06%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "07/03/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1171,7 +1235,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "9,17%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "04/03/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1189,7 +1254,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "7,33%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "12/02/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1207,7 +1273,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "11,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "21/01/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1225,7 +1292,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "30/12/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1243,7 +1311,8 @@
       "rentabilidad_anual": "13,00%",
       "rentabilidad_total": "10,83%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "04/12/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1261,7 +1330,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "13,75%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "31/10/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1279,7 +1349,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "28/10/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1297,7 +1368,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "24/10/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1315,7 +1387,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "21/10/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1333,7 +1406,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "13,75%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "15/10/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1351,7 +1425,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "13,75%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "08/10/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1369,7 +1444,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "26/10/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1387,7 +1463,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "30/09/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1405,7 +1482,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "18,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "19/09/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1423,7 +1501,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "18,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "24/07/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1441,7 +1520,8 @@
       "rentabilidad_anual": "12,50%",
       "rentabilidad_total": "15,63%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "27/08/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1459,7 +1539,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "17/07/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1477,7 +1558,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "5,50%",
       "num_inversiones": null,
-      "year": 2025
+      "published_date": "24/06/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1495,7 +1577,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "18,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "20/06/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1513,7 +1596,8 @@
       "rentabilidad_anual": "12,50%",
       "rentabilidad_total": "18,75%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "21/05/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1531,7 +1615,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "13/05/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1549,7 +1634,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "15,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "19/04/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1567,7 +1653,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "16,50%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "22/03/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1585,7 +1672,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "18,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "30/01/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1603,7 +1691,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "29/09/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1621,7 +1710,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "31/05/2023",
+      "last_modified": "16/07/2025"
     },
     {
       "estado": "En curso",
@@ -1639,7 +1729,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "24,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "11/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "En curso",
@@ -1657,7 +1748,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "12/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1675,7 +1767,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "5,25%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "13/11/2025",
+      "last_modified": "14/11/2025"
     },
     {
       "estado": "Terminadas",
@@ -1693,7 +1786,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "8,25%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "20/09/2025",
+      "last_modified": "23/09/2025"
     },
     {
       "estado": "Terminadas",
@@ -1711,7 +1805,8 @@
       "rentabilidad_anual": "10,50%",
       "rentabilidad_total": "7,88%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "30/05/2025",
+      "last_modified": "03/06/2025"
     },
     {
       "estado": "Terminadas",
@@ -1729,7 +1824,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "5,50%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "09/04/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1747,7 +1843,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "31/03/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1765,7 +1862,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "5,50%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "18/03/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1783,7 +1881,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "5,50%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "06/02/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1801,7 +1900,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "3,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "20/02/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1819,7 +1919,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "18/02/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1837,7 +1938,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "8,25%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "22/01/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1855,7 +1957,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "13,75%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "22/01/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1873,7 +1976,8 @@
       "rentabilidad_anual": "11,50%",
       "rentabilidad_total": "8,63%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "14/01/2025",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1891,7 +1995,8 @@
       "rentabilidad_anual": "13,00%",
       "rentabilidad_total": "9,75%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "12/12/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1909,7 +2014,8 @@
       "rentabilidad_anual": "12,50%",
       "rentabilidad_total": "3,13%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "27/11/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1927,7 +2033,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "18/11/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1945,7 +2052,8 @@
       "rentabilidad_anual": "13,00%",
       "rentabilidad_total": "13,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "11/11/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1963,7 +2071,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "5,50%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "15/10/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1981,7 +2090,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "2,75%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "10/10/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -1999,7 +2109,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "8,25%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "09/10/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2017,7 +2128,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "23/09/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2035,7 +2147,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "04/09/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2053,7 +2166,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "07/08/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2071,7 +2185,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "05/08/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2089,7 +2204,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "29/07/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2107,7 +2223,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "10/06/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2125,7 +2242,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "03/06/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2143,7 +2261,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "13,75%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "28/05/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2161,7 +2280,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "5,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "16/05/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2179,7 +2299,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "18,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "10/04/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2197,7 +2318,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "29/02/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2215,7 +2337,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "20/02/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2233,7 +2356,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "08/02/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2251,7 +2375,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,00%",
       "num_inversiones": null,
-      "year": 2024
+      "published_date": "18/01/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2269,7 +2394,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "15/01/2024",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2287,7 +2413,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "5,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "11/12/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2305,7 +2432,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "21/12/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2323,7 +2451,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "01/12/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2341,7 +2470,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "5,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "30/11/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2359,7 +2489,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "14/11/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2377,7 +2508,8 @@
       "rentabilidad_anual": "11,00%",
       "rentabilidad_total": "11,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "02/11/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2395,7 +2527,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "10/10/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2413,7 +2546,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "03/10/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2431,7 +2565,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "7,50%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "06/09/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2449,7 +2584,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "7,50%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "29/08/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2467,7 +2603,8 @@
       "rentabilidad_anual": "12,25%",
       "rentabilidad_total": "6,13%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "07/08/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2485,7 +2622,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "12,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "18/07/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2503,7 +2641,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "11/07/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2521,7 +2660,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "05/07/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2539,7 +2679,8 @@
       "rentabilidad_anual": "16,00%",
       "rentabilidad_total": "48,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "21/11/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2557,7 +2698,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "8,33%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "14/06/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2575,7 +2717,8 @@
       "rentabilidad_anual": "12,00%",
       "rentabilidad_total": "6,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "08/05/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2593,7 +2736,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "20/04/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2611,7 +2755,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "11/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2629,7 +2774,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "11/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2647,7 +2793,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "12,75%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "16/01/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2665,7 +2812,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2023
+      "published_date": "11/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2683,7 +2831,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "15,00%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "12/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2701,7 +2850,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "6,67%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "12/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2719,7 +2869,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,00%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "12/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2737,7 +2888,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "10,83%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "12/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2755,7 +2907,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "15/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2773,7 +2926,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "15/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2791,7 +2945,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "9,00%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "15/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2809,7 +2964,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "16,67%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "13/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2827,7 +2983,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "13,50%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "15/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2845,7 +3002,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "18,00%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "16/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2863,7 +3021,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "16,50%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "16/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2881,7 +3040,8 @@
       "rentabilidad_anual": "10,00%",
       "rentabilidad_total": "15,00%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "16/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2899,7 +3059,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "13,50%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "16/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2917,7 +3078,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "6,75%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "15/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2935,7 +3097,8 @@
       "rentabilidad_anual": "9,00%",
       "rentabilidad_total": "4,50%",
       "num_inversiones": null,
-      "year": 2022
+      "published_date": "17/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2953,7 +3116,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2021
+      "published_date": "17/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2971,7 +3135,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2021
+      "published_date": "19/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -2989,7 +3154,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2021
+      "published_date": "19/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -3007,7 +3173,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2021
+      "published_date": "19/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -3025,7 +3192,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2021
+      "published_date": "17/02/2023",
+      "last_modified": "15/04/2025"
     },
     {
       "estado": "Terminadas",
@@ -3043,7 +3211,8 @@
       "rentabilidad_anual": "Ver escenarios",
       "rentabilidad_total": "Ver escenarios",
       "num_inversiones": null,
-      "year": 2021
+      "published_date": "19/02/2023",
+      "last_modified": "15/04/2025"
     }
   ]
 }

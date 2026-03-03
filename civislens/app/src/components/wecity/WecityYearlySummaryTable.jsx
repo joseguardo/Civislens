@@ -15,7 +15,7 @@ export default function WecityYearlySummaryTable({ projects }) {
     const byYear = {};
 
     projects.forEach(p => {
-      const year = p.year;
+      const year = p._year;
       if (!year) return;
 
       if (!byYear[year]) byYear[year] = { count: 0, funded: 0, statuses: {}, types: {} };
